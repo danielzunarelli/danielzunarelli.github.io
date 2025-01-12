@@ -21,10 +21,10 @@ repository               : "danielzunarelli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /Users/danielzunarelli/Github/danielzunarelli.github.io/images/Perfil.png
+  avatar           : "images/Perfil.png"
   name             : "Daniel Zunarelli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A space to share my passion for Data Engineering, with learnings, insights, and projects from my journey in the world of data!"
   location         : "Curitiba - Brazil"
   employer         : #"Red Brick University"
   uri              : # URL
