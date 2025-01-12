@@ -212,18 +212,28 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  # Remover ou comentar essas coleções
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  
+  # Deixe apenas as coleções necessárias
+  posts:
+    output: true
+    permalink: /:categories/:title/
+  cv:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
