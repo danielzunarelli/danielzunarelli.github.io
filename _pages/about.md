@@ -7,20 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-# Olá, sou Daniel Zunarelli 
+# Hello, I'm Daniel Zunarelli
 
-👨‍💻 **Analista de Negócios | Engenheiro de Dados em Formação | Desenvolvedor de Soluções em Dados**
+I have degrees in Business Administration and Pharmacy, and I am currently studying Software Engineering. My journey reflects a growing passion for data and technology, which led me to transition into the tech industry. I now work in the field of Data Engineering.
 
-Tenho formação em **Administração**, **Farmácia** e atualmente estudo **Análise e Desenvolvimento de Sistemas**. Minha trajetória reflete uma paixão crescente por dados e tecnologia, que me levou a fazer uma transição de carreira para o setor de tecnologia. Hoje atuo como Analista de Negócios, com o objetivo de me tornar um Engenheiro de Dados.
+During my undergraduate studies in Business Administration, I discovered the power of data in generating strategic insights, which sparked my passion for applying data across various fields.
 
-Desde minha graduação em Administração, descobri o potencial dos dados para gerar insights estratégicos, o que me levou a aplicar essa paixão em várias áreas de atuação, incluindo o setor de saúde. Atualmente, estudo **Engenharia de Dados pela ADA Tech** e estou desenvolvendo habilidades em **Python, SQL, Spark, Modelagem de Dados**, e plataformas de nuvem como **Google Cloud** e **AWS**.
+🛠️ **Skills and Technologies**  
 
----
-
-## 🛠️ Habilidades e Tecnologias
-
-- **Linguagens de Programação**: Python, SQL
-- **Bibliotecas de Dados**: Pandas, Numpy, PySpark
-- **Ferramentas e Tecnologias de Big Data**: Spark, Databricks
-- **Plataformas de Nuvem**: AWS
-- **Ferramentas de Análise e Métricas**: Google Analytics, Typeform
+- **Programming Languages:** Python, SQL  
+- **Data Libraries:** Pandas, Numpy, PySpark  
+- **Big Data Tools and Technologies:** Spark, Databricks  
+- **Cloud Platforms:** AWS  
+- **Analysis and Metrics Tools:** Google Analytics, Typeform
