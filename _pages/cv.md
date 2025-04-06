@@ -7,58 +7,61 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+_Last updated: April 2025_
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Work Experience
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Data Engineer – Leega**  
+  *Mar 2024 – Present*  
+  - Conducted data maturity assessments for clients, identifying areas for improvement  
+  - Built and automated ETL pipelines for data ingestion, transformation, and loading  
+  - Participated in internal projects and custom data solution development  
+  - Developed scalable data transformations using Python and PySpark  
+  - Worked with cloud platforms such as Databricks, AWS, and GCP  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Business Analyst – Trier Sistemas**  
+  *Aug 2024 – Feb 2025*  
+  - Wrote and executed SQL queries to extract and analyze strategic data  
+  - Defined and detailed clear user stories aligned with business needs  
+  - Applied Agile methodologies (Scrum) for backlog management  
+  - Participated in full product lifecycle: from planning to launch and performance monitoring  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Data Analyst – PraJá Digital**  
+  *May 2023 – Jul 2024*  
+  - Collected, cleaned, and analyzed marketing data using Python  
+  - Monitored KPIs such as CAC, ROI, conversion and engagement rates  
+  - Created dashboards and interactive reports to track performance  
+  - Provided predictive analysis and behavioral studies for strategic decisions  
+  - Collaborated closely with traffic, content, and sales teams on data-driven initiatives  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  ## Education
+
+- **Technical Degree in Systems Analysis and Development (in progress)**  
+  Pontifical Catholic University of Paraná (PUC/PR), Brazil  
+  *Jan 2024 – Jul 2026 (expected)*
+
+- **B.Sc. in Business Administration**  
+  Faculdade Bagozzi, Brazil  
+  *Jan 2012 – Dec 2015*
+
+## Languages
+
+- **English:** B2 (Upper-Intermediate)
+
+## Certifications
+
+- **Data Engineering – Santander Coders**  
+  ADA Tech, Jun 2024 – Dec 2024  
+  Focused on key tools and technologies in Data Engineering, including Python (NumPy, Pandas), PySpark, Databricks, Kafka, and ETL/ELT processes. Developing hands-on skills in handling large-scale data, pipeline optimization, and analytical decision-making.
+
+- **Communication and Public Speaking – Communicating with Assertiveness**  
+  Conquer, 2022  
+  Focused on verbal and non-verbal communication, clear expression of ideas, and effective presentation techniques.
+
+## Skills
+
+- **Programming Languages:** Python, SQL  
+- **Data Libraries:** Pandas, NumPy, PySpark  
+- **Big Data Tools & Frameworks:** Apache Spark, Databricks  
+- **Cloud Platforms:** AWS, Google Cloud Platform (GCP)  
+- **Other:** Agile (Scrum), ETL/ELT, Dashboarding, Data Analysis  
