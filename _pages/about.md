@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 # Hello, I'm Daniel Zunarelli
 
 I'm a Data Engineer with a background in Business Administration and a strong passion for transforming data into actionable insights. Currently pursuing a degree in Software Engineering, I bring a unique mix of business perspective and technical skills to every project.
