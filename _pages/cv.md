@@ -12,7 +12,7 @@ _Last updated: April 2025_
 ## Work Experience
 
 - **Data Engineer – Leega**  
-  *Mar 2024 – Present*  
+  *Fev 2024 – Present*  
   - Conducted data maturity assessments for clients, identifying areas for improvement  
   - Built and automated ETL pipelines for data ingestion, transformation, and loading  
   - Participated in internal projects and custom data solution development  
@@ -20,7 +20,7 @@ _Last updated: April 2025_
   - Worked with cloud platforms such as Databricks, AWS, and GCP  
 
 - **Business Analyst – Trier Sistemas**  
-  *Aug 2024 – Feb 2025*  
+  *Aug 2024 – Jan 2025*  
   - Wrote and executed SQL queries to extract and analyze strategic data  
   - Defined and detailed clear user stories aligned with business needs  
   - Applied Agile methodologies (Scrum) for backlog management  
