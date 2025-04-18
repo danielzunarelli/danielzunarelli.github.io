@@ -17,7 +17,7 @@ _Last updated: April 2025_
   - Built and automated ETL pipelines for data ingestion, transformation, and loading  
   - Participated in internal projects and custom data solution development  
   - Developed scalable data transformations using Python and PySpark  
-  - Worked with cloud platforms such as Databricks, AWS, and GCP  
+  - Worked with cloud platforms such as Databricks, AWS, and GCP.  
 
 - **Business Analyst – Trier Sistemas**  
   *Aug 2024 – Jan 2025*  
@@ -64,4 +64,4 @@ _Last updated: April 2025_
 - **Data Libraries:** Pandas, NumPy, PySpark  
 - **Big Data Tools & Frameworks:** Apache Spark, Databricks  
 - **Cloud Platforms:** AWS, Google Cloud Platform (GCP)  
-- **Other:** Agile (Scrum), ETL/ELT, Dashboarding, Data Analysis  
+- **Other:** Agile (Scrum), ETL/ELT, Data Analysis  

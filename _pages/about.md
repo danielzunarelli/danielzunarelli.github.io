@@ -14,7 +14,7 @@ My journey into tech began when I realized the strategic power of data during my
 
 I'm highly motivated by continuous learning and thrive in environments where data is at the core of innovation. I'm now looking to bring my skills to international teams where I can contribute, grow, and help deliver scalable data solutions.
 
-🛠️ **Skills and Technologies**
+**Skills and Technologies**
 
 **Programming Languages:** Python, SQL  
 **Data Libraries:** Pandas, NumPy, PySpark  
