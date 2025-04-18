@@ -12,7 +12,7 @@ _Last updated: April 2025_
 ## Work Experience
 
 - **Data Engineer – Leega**  
-  *Fev 2024 – Present*  
+  *Feb 2024 – Present*  
   - Conducted data maturity assessments for clients, identifying areas for improvement  
   - Built and automated ETL pipelines for data ingestion, transformation, and loading  
   - Participated in internal projects and custom data solution development  
