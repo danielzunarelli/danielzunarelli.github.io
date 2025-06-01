@@ -5,15 +5,20 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 body {
   margin: 0;
-  padding: $masthead-height 0 0;
+  padding-top: $masthead-height;
   padding-bottom: 9em;
-  color: $text-color;
+  color: var(--text-color);
   font-family: $global-font-family;
   line-height: 1.5;
+  background-color: var(--background-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

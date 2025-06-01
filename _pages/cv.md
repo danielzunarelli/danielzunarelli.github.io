@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-_Last updated: April 2025_
+_Last updated: May 2025_
 
 ## Work Experience
 
