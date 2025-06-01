@@ -17,6 +17,6 @@ I’m driven by continuous learning and thrive in environments where data plays 
 **Skills and Technologies**
 
 **Programming Languages:** Python, SQL  
-**Data Libraries:** Pandas, NumPy, PySpark  
-**Big Data Tools & Frameworks:** Apache Spark, Databricks  
-**Cloud Platforms:** AWS, Google Cloud Platform (GCP)
+**Data Libraries:** Pandas, NumPy
+**Big Data:** Apache Spark(PySpark), Databricks  
+**Cloud Platforms:** AWS, GCP

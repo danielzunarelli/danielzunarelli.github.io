@@ -13,11 +13,11 @@ _Last updated: May 2025_
 
 - **Data Engineer – Leega**  
   *Feb 2024 – Present*  
-  - Conducted data maturity assessments for clients, identifying areas for improvement  
-  - Built and automated ETL pipelines for data ingestion, transformation, and loading  
-  - Participated in internal projects and custom data solution development  
-  - Developed scalable data transformations using Python and PySpark  
-  - Worked with cloud platforms such as Databricks, AWS, and GCP.  
+	-	Conducted data maturity assessments for clients, identifying areas for improvement
+	-	Built and automated ETL pipelines for data ingestion, transformation, and loading
+	-	Participated in internal projects and developed custom data solutions using Databricks, GCP, BigQuery, Cloud Composer (Airflow), Cloud Storage, Dataproc and Terraform.
+	-	Designed scalable data transformations with Python and PySpark
+	-	Worked with cloud platforms such as Databricks, GCP, and AWS 
 
 - **Business Analyst – Trier Sistemas**  
   *Aug 2024 – Jan 2025*  
