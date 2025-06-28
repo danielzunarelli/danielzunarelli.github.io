@@ -16,7 +16,7 @@ I’m driven by continuous learning and thrive in environments where data engine
 
 **Skills and Technologies**
 
-**Programming Languages:** SQL, Python, Spark 
-**Data Libraries:** Pandas, NumPy
-**Cloud Platforms:** Databricks, AWS, GCP
+**Programming Languages:** SQL, Python, Spark  
+**Data Libraries:** Pandas, NumPy  
+**Cloud Platforms:** Databricks, AWS, GCP  
 **Certifications:** Databricks Data Engineer Associate

@@ -50,8 +50,7 @@ _Last updated: Jun 2025_
 ## Certifications
 
 - **Databricks Data Engineering Associate**  
-  Valid until: : June 21, 2027
-  
+  Valid until: June 21, 2027
   [Certified Link](https://credentials.databricks.com/ce50336d-b710-4d64-813c-6ad343192fc5#acc.ofEsAv05)
  
 
