@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-_Last updated: May 2025_
+_Last updated: Jun 2025_
 
 ## Work Experience
 
@@ -15,15 +15,14 @@ _Last updated: May 2025_
   *Feb 2024 – Present*  
 	-	Conducted data maturity assessments for clients, identifying areas for improvement
 	-	Built and automated ETL pipelines for data ingestion, transformation, and loading
-	-	Participated in internal projects and developed custom data solutions using Databricks, GCP, BigQuery, Cloud Composer (Airflow), Cloud Storage, Dataproc and Terraform.
+	-	Participated in internal projects and developed custom data solutions using Databricks, GCP, BigQuery, Cloud Composer, Cloud Storage, Dataproc and Terraform.
 	-	Designed scalable data transformations with Python and PySpark
-	-	Worked with cloud platforms such as Databricks, GCP, and AWS 
+	-	Worked with cloud platforms such as Databricks, GCP and AWS 
 
 - **Business Analyst – Trier Sistemas**  
   *Aug 2024 – Jan 2025*  
   - Wrote and executed SQL queries to extract and analyze strategic data  
-  - Defined and detailed clear user stories aligned with business needs  
-  - Applied Agile methodologies (Scrum) for backlog management  
+  - Defined and detailed clear user stories aligned with business needs 
   - Participated in full product lifecycle: from planning to launch and performance monitoring  
 
 - **Data Analyst – PraJá Digital**  
@@ -50,7 +49,12 @@ _Last updated: May 2025_
 
 ## Certifications
 
-- **Data Engineering – Santander Coders**  
+- **Databricks Data Engineering Associate**  
+  Data of expiration: June 21, 2027
+  [Certified Link](https://credentials.databricks.com/ce50336d-b710-4d64-813c-6ad343192fc5#acc.ofEsAv05)
+ 
+
+- **Data Engineering – Santander**  
   ADA Tech, Jun 2024 – Dec 2024  
   Focused on key tools and technologies in Data Engineering, including Python (NumPy, Pandas), PySpark, Databricks, Kafka, and ETL/ELT processes. Developing hands-on skills in handling large-scale data, pipeline optimization, and analytical decision-making.
 
@@ -62,6 +66,4 @@ _Last updated: May 2025_
 
 - **Programming Languages:** Python, SQL  
 - **Data Libraries:** Pandas, NumPy, PySpark  
-- **Big Data Tools & Frameworks:** Apache Spark, Databricks  
-- **Cloud Platforms:** AWS, Google Cloud Platform (GCP)  
-- **Other:** Agile (Scrum), ETL/ELT, Data Analysis  
+- **Cloud Platforms:** AWS, Google Cloud Platform (GCP)   
