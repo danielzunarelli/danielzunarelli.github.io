@@ -21,17 +21,17 @@ _Last updated: Jun 2025_
 
 - **Business Analyst – Trier Sistemas**  
   *Aug 2024 – Jan 2025*  
-  - Wrote and executed SQL queries to extract and analyze strategic data  
-  - Defined and detailed clear user stories aligned with business needs 
-  - Participated in full product lifecycle: from planning to launch and performance monitoring  
+  - Involvement in the development of system modules, such as goods receipt and agreements, from requirements definition and prototyping to technical follow-up with the development team;
+  - Execution of User Acceptance Testing (UAT) to ensure the software met the defined requirements;
+  - Gathering requirements from external clients to identify needs and propose system improvements;
+  - Analysis of business processes, identifying bottlenecks and proposing solutions to optimize operational efficiency.
 
 - **Data Analyst – PraJá Digital**  
-  *May 2023 – Jul 2024*  
-  - Collected, cleaned, and analyzed marketing data using Python  
-  - Monitored KPIs such as CAC, ROI, conversion and engagement rates  
-  - Created dashboards and interactive reports to track performance  
-  - Provided predictive analysis and behavioral studies for strategic decisions  
-  - Collaborated closely with traffic, content, and sales teams on data-driven initiatives  
+  *May 2023 – Jul 2024*   
+  - Creation of reports and dashboards; 
+  - Application of predictive analysis and consumer behavior studies to guide strategic planning and budget allocation;  
+  - Monitoring and optimization of KPIs such as CAC, ROI, conversion rates, and engagement to maximize return on investment; 
+  - Development of analytical databases by ingesting data from Google Ads, Meta Ads, Google Analytics, and CRM systems, using spreadsheets, APIs, and automation to ensure data integrity and standardization.
 
   ## Education
 
