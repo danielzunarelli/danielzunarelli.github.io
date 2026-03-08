@@ -13,7 +13,6 @@ _Last updated: March 2026_
 
 - **Data Engineer – Leega**  
   *Feb 2024 – Present* 
-
   - **Insurance Sector Project**
 	-	Supported the migration of analytics workloads from SAS to Google Cloud Platform (GCP).
 	-	Designed and developed scalable ETL/ELT pipelines for large-scale data processing in cloud environments.
