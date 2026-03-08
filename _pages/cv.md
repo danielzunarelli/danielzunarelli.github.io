@@ -7,17 +7,29 @@ redirect_from:
   - /resume
 ---
 
-_Last updated: Jun 2025_
+_Last updated: March 2026_
 
 ## Work Experience
 
 - **Data Engineer – Leega**  
-  *Feb 2024 – Present*  
-	-	Conducted data maturity assessments for clients, identifying areas for improvement
-	-	Built and automated ETL pipelines for data ingestion, transformation, and loading
-	-	Participated in internal projects and developed custom data solutions using Databricks, GCP, BigQuery, Cloud Composer, Cloud Storage, Dataproc and Terraform.
-	-	Designed scalable data transformations with Python and PySpark
-	-	Worked with cloud platforms such as Databricks, GCP and AWS 
+  *Feb 2024 – Present* 
+
+  - **Insurance Sector Project**
+	-	Supported the migration of analytics workloads from SAS to Google Cloud Platform (GCP).
+	-	Designed and developed scalable ETL/ELT pipelines for large-scale data processing in cloud environments.
+	-	Built and orchestrated Apache Airflow DAGs (Cloud Composer) to automate data workflows.
+	-	Implemented data transformations and modeling using dbt.
+	-	Optimized queries and processing workflows, achieving ~70% performance improvements in data pipelines.
+  - Collaborated in agile teams using GitLab for version control and Jira for project management.
+
+  - **Financial Services Project**
+  - Contributed to a large-scale data platform migration, moving more than 600 Oracle PL/SQL and Informatica PowerCenter processes to Databricks.
+  - Translated complex business logic into PySpark, Python, and optimized SQL for distributed data processing.
+  - Processed datasets ranging from millions to billions of records, ensuring scalability and performance.
+  - Implemented data validation and observability mechanisms to ensure data quality and consistency during migration.
+  - Optimized workloads and pipeline execution, reducing processing latency by nearly 40%.
+  - Worked in agile teams using GitLab and Jira for collaboration and project tracking.
+
 
 - **Business Analyst – Trier Sistemas**  
   *Aug 2024 – Jan 2025*  
@@ -27,7 +39,7 @@ _Last updated: Jun 2025_
   - Analysis of business processes, identifying bottlenecks and proposing solutions to optimize operational efficiency.
 
 - **Data Analyst – PraJá Digital**  
-  *May 2023 – Jul 2024*   
+  *May 2022 – Jul 2024*   
   - Creation of reports and dashboards; 
   - Application of predictive analysis and consumer behavior studies to guide strategic planning and budget allocation;  
   - Monitoring and optimization of KPIs such as CAC, ROI, conversion rates, and engagement to maximize return on investment; 
@@ -35,7 +47,7 @@ _Last updated: Jun 2025_
 
   ## Education
 
-- **Technical Degree in Systems Analysis and Development (in progress)**  
+- **Associate's Degree in Systems Analysis and Development**  
   Pontifical Catholic University of Paraná (PUC/PR), Brazil  
   *Jan 2024 – Jul 2026 (expected)*
 
@@ -64,6 +76,5 @@ _Last updated: Jun 2025_
 
 ## Skills
 
-- **Programming Languages:** Python, SQL  
-- **Data Libraries:** Pandas, NumPy, PySpark  
+- **Programming Languages:** Python, SQL, PySpark, Databricks, Apache Airflow, dbt, Google Cloud Platform (GCP), Oracle, GitLab.
 - **Cloud Platforms:** AWS, Google Cloud Platform (GCP)   

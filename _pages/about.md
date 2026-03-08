@@ -8,15 +8,15 @@ redirect_from:
 ---
 # Hello, I'm Daniel Zunarelli
 
-I’m a Data Engineer with a background in Business Administration and a strong focus on designing robust data architectures and scalable pipelines that support business-critical decisions. Currently enrolled in a Master’s program in Data Engineering, I combine a business-oriented mindset with solid technical expertise.
+I’m a Data Engineer with over 4 years of experience in the data domain, including over a year specializing in data engineering. My background includes working with marketing analytics, pharmaceutical ERP data, and consulting projects in the financial services and insurance sectors, providing a broad perspective on transforming raw data into reliable datasets for analytics and decision-making.
 
-My journey into tech began when I uncovered the strategic value of data during my Business Administration studies. Since then, I’ve specialized in building end-to-end data solutions using tools like Python, SQL, Spark, and cloud platforms such as AWS and Databricks.
+In my data engineering experience, I have worked on large-scale data platform migrations and pipeline development in cloud environments. In the financial sector, I contributed to the migration of more than 600 Oracle PL/SQL and Informatica PowerCenter processes to Databricks, translating complex business logic into PySpark, Python, and SQL while processing datasets ranging from millions to billions of records. I also implemented data validation and observability mechanisms to ensure data quality and consistency during migration, while optimizing workloads to reduce processing latency by nearly 40%.
 
-I’m driven by continuous learning and thrive in environments where data engineering plays a central role in enabling innovation. I’m eager to contribute to international teams and help build impactful, data-driven infrastructures.
+In the insurance sector, I have worked on migrating analytics workloads from SAS to Google Cloud Platform (GCP), building and orchestrating ETL/ELT pipelines using Apache Airflow and dbt, and optimizing queries to improve pipeline performance by an average of 70%. My work also includes version control with GitLab and collaboration through Jira in agile data engineering teams.
 
 **Skills and Technologies**
 
-**Programming Languages:** SQL, Python, Spark  
-**Data Libraries:** Pandas, NumPy  
-**Cloud Platforms:** Databricks, AWS, GCP  
-**Certifications:** Databricks Data Engineer Associate
+**Data Engineering:** Advanced SQL, Python, PySpark, ETL/ELT Pipelines, Data Modeling
+**Cloud Platforms:** AWS, Google Cloud Platform (GCP), Databricks, Oracle, dbt
+**Orchestration & DevOps:** Apache Airflow, Cloud Composer, Git, Jinja
+**Certifications:** Databricks Data Engineer Associate, Airflow DAG Authoring
